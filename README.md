@@ -1,5 +1,5 @@
 # teams-presence-mqtt
-Get 
+![communication flow](https://raw.githubusercontent.com/ultrara1n/teams-presence-mqtt/main/media/communication-flow.jpg)
 
 ## Prerequisites
 You will need to create an app with sufficient privileges to authorize with and get the needed access/refresh tokens.
