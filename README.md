@@ -35,7 +35,19 @@ I'm using this config to get both status into my home automating system
 
 ## Build Teams status cube
 Inspired by https://github.com/toblum/ESPTeamsPresence
+### BOM
+To put all the materials in, i've printed this nice cube from thingiverse https://www.thingiverse.com/thing:4060603
 
-https://www.thingiverse.com/thing:4060603
+Material | Price | Source
+--- | --- | ---
+Wemos D1 compatible Board | 7,50€ | https://www.amazon.de/gp/product/B08BTYX1WL/
+8x8 WS2812 LED Matrix | 10€ | https://www.amazon.de/gp/product/B078HYP681/
+Cables | |
+
+There are of course cheaper sources for the parts, but I had no patience to wait the few months for them to arrive, for example the ESP8266 Board here https://www.aliexpress.com/item/32822012864.html and the LED Matrix here https://www.aliexpress.com/item/32653027272.html
+
+### Software and flashing
 
 ESPHome
+
+### Home Assistant Automation
